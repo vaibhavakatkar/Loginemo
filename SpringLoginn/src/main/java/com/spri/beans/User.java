@@ -7,7 +7,7 @@ import org.springframework.web.multipart.commons.CommonsMultipartFile;
 
 public class User {
 	/*aaasddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
-	*/
+	*//*ddddddddddddddddddddddddddddddddddddddddddddddddddddddd*/
 	private String fname;
 	private String lname;
 	private String email;
