@@ -6,7 +6,8 @@ import java.io.File;
 import org.springframework.web.multipart.commons.CommonsMultipartFile;
 
 public class User {
-	
+	/*aaasddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+	*/
 	private String fname;
 	private String lname;
 	private String email;
